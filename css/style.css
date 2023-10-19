@@ -32,3 +32,30 @@
     left: 230px;
     background-color: darkorchid;
 }
+
+.box{width: 100px;
+    height: 100px;
+    border-radius: 20px; /* Закруглені кути */
+    border: 2px solid #000;
+    position: absolute;
+}
+
+
+#box1{
+    top: 380px;
+    left: 550px;
+    rotate: 45deg;
+    background-color: yellow;
+}
+#box2{
+    top: 480px;
+    left: 485px;
+    rotate: 20deg;
+    background-color: powderblue;;
+}
+#box3{
+    top: 480px;
+    left: 615px;
+    rotate: 70deg;
+    background-color: darkorchid;
+}
